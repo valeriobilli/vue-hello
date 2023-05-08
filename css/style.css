@@ -1,3 +1,8 @@
-.color-red {
+.title {
     color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textCenter {
+    text-align: center;
 }
